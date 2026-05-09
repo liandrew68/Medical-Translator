@@ -1,4 +1,3 @@
-# System dependencies for pyttsx3 on Linux
 libasound2-dev
 espeak
 portaudio19-dev
